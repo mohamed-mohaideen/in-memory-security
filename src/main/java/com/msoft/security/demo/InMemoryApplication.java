@@ -9,6 +9,7 @@ public class InMemoryApplication {
 	public static void main(String[] args) {
 		//Dev_test changes
 		SpringApplication.run(InMemoryApplication.class, args);
+		
 	}
 
 }
